@@ -45,7 +45,7 @@ body{
     padding-right: 20%;
 }
 #div4{
-    margin-left: 850px;
+    text-align: center;
 }
 #but{
     background-color: white;
@@ -86,20 +86,13 @@ body{
     margin-left: auto;
 }
 .input{
-    position: relative;
     width: 200px;
     height: 40px;
-    margin-left: 37%;
-    margin-right: 60px;
     
 }
 .input1{
-    position: relative;
     width: 200px;
     height: 40px;
-}
-#textarea{
-    margin-left: 690px;
 }
 .ico{
     color: #007bff;
