@@ -1,0 +1,113 @@
+nav{
+    background-color: #007bff;
+    display: block;
+    height: 70px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    position: fixed;
+    width: 100%;
+    padding-top: 30px;
+}
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.nav1{
+    text-decoration: none;
+    font-size: 30px;
+    padding: 30px;
+    color:white;
+}
+#div5{
+    text-align: center;
+}
+#hr1{
+    width: 70px;
+    height: 2px;
+    background-color: #007bff;
+    border: 0;
+}
+#img1{
+   border-radius: 50%;
+   width: 300px;
+   height: 300px;
+   text-align: center;
+}
+#div1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.txt{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#div4{
+    margin-left: 850px;
+}
+#but{
+    background-color: white;
+    border: 1px solid #007bff;
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+}
+.grid-main{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 0;
+    margin: 0;
+}
+.grid-item{
+    text-align: center;
+    overflow: hidden;
+}
+.img2{
+    width: 100%;
+    height: 100%;
+}
+#div3{
+    background-color: lightgray;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#span1{
+    font-size: 30px;
+}
+.img2:hover{
+    transition: 2s;
+    transform: scale(1.3);
+}
+.h2{
+    text-align: center;
+    margin-left: auto;
+}
+.input{
+    position: relative;
+    width: 200px;
+    height: 40px;
+    margin-left: 37%;
+    margin-right: 60px;
+    
+}
+.input1{
+    position: relative;
+    width: 200px;
+    height: 40px;
+}
+#textarea{
+    margin-left: 690px;
+}
+.ico{
+    color: #007bff;
+    font-size: 40px;
+    padding: 60px;
+}
+.ico1{
+    margin-left: 625px;
+}
+
+
